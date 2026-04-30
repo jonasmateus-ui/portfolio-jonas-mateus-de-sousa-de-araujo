@@ -13,9 +13,9 @@
 ### 👨‍💻 Sobre
 Atualmente cursando o 1º período de Análise e Desemvolvimento de Sistemas na Universidade Cidade De São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
  
-* **Habilidades Técnicas:** Python, Java, SQL, AWS, Docker.
+* **Habilidades Técnicas:** Python, Java, SQL.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei no projeto do site Comuniq, site com foco em divulgar serviços de pessoas autonomas que moram em comunidades périfericas de São Paulo.
+* **Experiência/Projetos Relevantes:** Atuei no projeto do site Comuniq, site com foco em divulgar serviços de pessoas autonômas que moram em comunidades de São Paulo.
  
 ---
  
@@ -59,10 +59,10 @@ Atualmente cursando o 1º período de Análise e Desemvolvimento de Sistemas na 
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
