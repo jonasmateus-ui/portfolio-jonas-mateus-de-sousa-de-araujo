@@ -49,6 +49,14 @@ Atualmente cursando o 1º período de Análise e Desemvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
+| **Engenharia de Soluções Lógicas**
+[Ver Projeto](./projeto-engenharia-de-solucoes-logicas/)
+| **Modularização**
+| **Traduzindo Lógica para Pythons**
+| **Engenharia de Contexto e Lógica Física**
+| **Desenhando Emojis com Dados**
+| **Algoritmo de Auditoria de Dados**
+
  
  
 ---
