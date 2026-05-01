@@ -1,5 +1,5 @@
 # Jonas Mateus de Sousa de Araujo
-> Estudante de Análise e Desenvolvimento de Sistemas da Cidade de São Paulo (UNICID).
+> Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
  
 ---
  
