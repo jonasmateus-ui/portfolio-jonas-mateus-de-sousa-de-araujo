@@ -1,22 +1,42 @@
-🚀 Exercícios de Lógica: Tradução de Pseudocódigo para Python
-Este repositório contém a resolução de uma atividade prática de lógica de programação. O objetivo principal foi traduzir algoritmos complexos descritos em pseudocódigo para a linguagem Python, aplicando conceitos de tipagem, estruturas de repetição e condicionais.
+cat << 'EOF' > README.md
+# 🐍 Conversão de Lógica: Pseudocódigo para Python
 
-📋 Sobre a Atividade
-A atividade consistiu na implementação de quatro funções distintas, cada uma simulando um sistema do mundo real:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Logic](https://img.shields.io/badge/Logic-Algorithms-red?style=for-the-badge)
 
-Processamento de Vendas: Sistema que valida entradas, calcula subtotais e aplica descontos progressivos (5% e 10%) baseados no valor total da compra.
+Este repositório contém a tradução de algoritmos complexos de **pseudocódigo** para a linguagem **Python**, focando no uso correto de tipos de dados, estruturas de repetição e condicionais.
 
-Análise de Clima: Algoritmo que monitora temperaturas semanais, calcula médias e identifica condições extremas (alertas de perigo para temperaturas acima de 45°C ou abaixo de -5°C).
+## 🚀 Funções Implementadas
 
-Sistema de Notas: Gestor de desempenho acadêmico que processa médias e define o status do aluno (Aprovado, Recuperação ou Reprovado).
+O script aborda quatro cenários de lógica de programação:
+1.  **Processamento de Vendas:** Cálculo de total com validação de entrada e descontos progressivos (10% acima de R$ 500 e 5% acima de R$ 200).
+2.  **Análise de Clima:** Coleta de temperaturas semanais, cálculo de média e emissão de alertas para climas extremos (acima de 45°C ou abaixo de -5°C).
+3.  **Sistema de Notas:** Gestão de médias escolares com fluxo de decisão para Aprovação, Recuperação e Reprovação.
+4.  **Simulador de Poupança:** Simulação de investimento com juros compostos e aportes mensais, incluindo monitoramento de metas financeiras.
 
-Simulador de Poupança: Cálculo de crescimento de capital com juros compostos e aportes mensais, incluindo monitoramento de metas financeiras.
+---
 
-🧠 Reflexões Técnicas
-Durante o desenvolvimento, foram explorados pontos fundamentais da linguagem Python:
+## 🧠 Questões de Reflexão
 
-Manipulação de Tipos: A importância da conversão de tipos (casting), visto que a função input() retorna nativamente strings. Sem o uso de int() ou float(), operações aritméticas resultariam em erros de execução ou concatenações inesperadas.
+### 1. Sobre Tipagem e `input()`
+No Python, a função `input()` sempre retorna os dados no formato de **String**. 
+*   **Consequência:** Se esquecermos de converter com `int()` ou `float()`, o Python não conseguirá realizar cálculos matemáticos. 
+*   **Exemplo:** O operador `+` passará a concatenar os textos (ex: "10" + "5" vira "105") em vez de somar os valores numéricos.
 
-Estruturas de Repetição: O uso da função range() para iterar sobre intervalos. No Python, para incluir o último valor de um intervalo (como em uma simulação de meses), utiliza-se a sintaxe range(inicio, fim + 1), devido à natureza exclusiva do limite superior da função.
+### 2. Sobre o `range()` e o Comportamento do Python
+Para contar de 1 até o limite exato (incluindo o último número), utilizamos:
+`range(1, limite + 1)`
 
-Formatação de Saída: Implementação de f-strings para garantir que valores monetários e médias sejam exibidos com precisão decimal adequada.
+**Por que o Python é assim?**
+Diferente do pseudocódigo tradicional, o limite superior do `range` é **exclusivo** (parada antes de atingir o valor). Isso é um padrão de design que facilita a indexação de listas (que iniciam em 0) e ajuda a determinar o número de iterações subtraindo o valor inicial do final.
+
+---
+
+## 🛠️ Tecnologias
+*   **Python 3.x**
+*   **Markdown**
+*   **Bash** (Automação de documentação)
+
+---
+*Atividade desenvolvida para o curso de **Análise e Desenvolvimento de Sistemas (ADS)**.*
+EOF
