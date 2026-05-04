@@ -48,7 +48,8 @@ Atualmente cursando o 1º período de Análise e Desemvolvimento de Sistemas na 
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
+| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. 
+| [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
 | **Engenharia de Soluções Lógicas** |  Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.
 [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/)
 | **Modularização**
