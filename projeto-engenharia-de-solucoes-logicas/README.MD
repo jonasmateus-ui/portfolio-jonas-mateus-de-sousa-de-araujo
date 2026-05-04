@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 🏗️ Arquitetura de Soluções: Da Abstração à Validação Lógica
 
 ![Logic](https://img.shields.io/badge/Logic-Fluxogramas%20%26%20Pseudocódigo-blueviolet?style=for-the-badge)
