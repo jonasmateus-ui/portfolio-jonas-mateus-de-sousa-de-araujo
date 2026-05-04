@@ -45,7 +45,6 @@ O projeto encerra com uma análise sobre a transposição do mundo real para o c
 
 ## 🛠️ Tecnologias e Ferramentas
 
-*   **Design de Fluxo:** [Inserir Ferramenta]
 *   **Lógica Estruturada:** Pseudocódigo (Portugol)
 *   **Documentação:** Markdown
 
