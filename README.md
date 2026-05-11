@@ -60,6 +60,8 @@ Atualmente cursando o 1º período de Análise e Desemvolvimento de Sistemas na 
 | [Ver Projeto](./projeto-engenharia-de-Contexto-e-logica-fisica/)
 | **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.
 | [Ver Projeto](./projeto-desenhando-emojis-com-dados/)
+| **Sistema de Auditoria de Recursos Corporativos** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.
+| [Ver Projeto](./projeto-sistema-de-auditoria-de-recursos-corporativos/)
 
  
  
