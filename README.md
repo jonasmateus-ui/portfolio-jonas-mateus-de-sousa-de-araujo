@@ -50,11 +50,11 @@ Atualmente cursando o 1º período de Análise e Desemvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
 | **Engenharia de Soluções Lógicas** |  Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.| [Ver Projeto]( ./projeto-engenharia-de-solucoes-logicas/ )
-| **Modularização**| | [Ver Projeto](./projeto-modularizacao/)
-| **Traduzindo Lógica para Pythons**|| [Ver Projeto](./projeto-traduzindo-logica-para-pythons/)
+| **Modularização**|Aplicar a estratégia "Dividir para Conquistar" através da decomposição de um sistema de caixa em funções independentes (caixas pretas). O foco é garantir alta coesão funcional e baixo acoplamento, utilizando parâmetros e retornos para proteger o escopo local e eliminar a redundância de código (Princípio DRY). | [Ver Projeto](./projeto-modularizacao/)
+| **Traduzindo Lógica para Pythons**|Transposição de pseudocódigos para Python, aplicando tipagem e estruturas de repetição. Foco na conversão do design unplugged para código funcional, mantendo a modularização e a eficiência lógica.| [Ver Projeto](./projeto-traduzindo-logica-para-pythons/)
 | **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial.| [Ver Projeto](./projeto-engenharia-de-Contexto-e-logica-fisica/)
 | **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.| [Ver Projeto](./projeto-desenhando-emojis-com-dados/)
-| **Sistema de Auditoria de Recursos Corporativos** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.| [Ver Projeto](./projeto-sistema-de-auditoria-de-recursos-corporativos/)
+| **Sistema de Auditoria de Recursos Corporativos** | Algoritmo de backend que processa estruturas hierárquicas complexas via recursão. Inclui Decorators para auditoria de performance e utiliza args/kwargs para filtragem dinâmica de departamentos e conversão monetária automática..| [Ver Projeto](./projeto-sistema-de-auditoria-de-recursos-corporativos/)
 
  
  
