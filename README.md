@@ -13,7 +13,7 @@
 ### 👨‍💻 Sobre
 Atualmente cursando o 1º período de Análise e Desemvolvimento de Sistemas na Universidade Cidade De São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
  
-* **Habilidades Técnicas:** Python, Java, SQL.
+* **Habilidades Técnicas:** Python, Java e C++.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei no projeto do site Comuniq, site com foco em divulgar serviços de pessoas autonômas que moram em comunidades de São Paulo.
  
