@@ -1,5 +1,7 @@
 
 # 🛡️ Auditoria de Vendas: Consistência e Segurança de Dados
+[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/status-concluído-brightgreen.svg)]()
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Security](https://img.shields.io/badge/Security-Data%20Auditory-red?style=for-the-badge)
