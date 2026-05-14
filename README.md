@@ -43,7 +43,7 @@ Atualmente cursando o 1º período de Análise e Desemvolvimento de Sistemas na 
 
 ---
  
-### 📂 Portfólio de Projetos
+## 📂 Portfólio de Projetos
  
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
@@ -56,12 +56,32 @@ Atualmente cursando o 1º período de Análise e Desemvolvimento de Sistemas na 
 | **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.| [Ver Projeto](./projeto-desenhando-emojis-com-dados/)
 | **Sistema de Auditoria de Recursos Corporativos** | Algoritmo de backend que processa estruturas hierárquicas complexas via recursão. Inclui Decorators para auditoria de performance e utiliza args/kwargs para filtragem dinâmica de departamentos e conversão monetária automática..| [Ver Projeto](./projeto-sistema-de-auditoria-de-recursos-corporativos/)
 
- 
+## 📂 Projetos
+## Comuniq 🚀 
+#### **Plataforma comunitária de serviços com Inteligência Artificial.** Conectando moradores de periferia a profissionais locais de forma simples, gratuita e sem burocracia.
+---
+## 🔗 Links Rápidos
+* 🌐 **[Testar Aplicação](./comuniq.html)**
+* 📂 **[Pasta de Documentação](./documentacao/)**
+    * [Memorial de Construção](./documentacao/Memorial_de_Constru%20%7C%C2%BA%20%7C%C3%BAo.pdf)
+    * [Engenharia de Prompts](./documentacao/Comuniq_Prompts.docx)
+    * [Documentação Completa](./documentacao/Comuniq_Documentacao_Completa.docx)
+---
+## 🛠️ O que eu utilizei?
+* **IA (Tobias):** Google Gemini Flash (Chat/Moderação) e Claude Haiku (Busca Inteligente).
+* **Frontend:** HTML5, CSS3 (Mobile-first) e JavaScript Vanilla.
+* **Integração:** API do WhatsApp para negociação direta.
+## ⭐ Destaques do Projeto
+* **Busca por IA:** O usuário digita o problema (ex: "pia entupida") e a IA sugere o profissional.
+* **Moderação Automática:** IAs filtram avaliações ofensivas em tempo real.
+* **Acessibilidade:** Sem senhas ou logins complexos, focado na realidade da comunidade.
+* **Privacidade:** Dados salvos localmente (`localStorage`).
+---
+**Projeto Acadêmico – UNICID 2026** *Engenharia de Prompt e Aplicações em IA*
+
+
  
 ---
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
  
 - `root/`: Arquivo de apresentação principal.
 - `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
