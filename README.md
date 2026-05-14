@@ -48,20 +48,13 @@ Atualmente cursando o 1º período de Análise e Desemvolvimento de Sistemas na 
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. 
-|[Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
-| **Engenharia de Soluções Lógicas** |  Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.
-| [Ver Projeto]( ./projeto-engenharia-de-solucoes-logicas/ )
-| **Modularização**
-| [Ver Projeto](./projeto-modularizacao/)
-| **Traduzindo Lógica para Pythons**
-| [Ver Projeto](./projeto-traduzindo-logica-para-pythons/)
-| **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial.
-| [Ver Projeto](./projeto-engenharia-de-Contexto-e-logica-fisica/)
-| **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.
-| [Ver Projeto](./projeto-desenhando-emojis-com-dados/)
-| **Sistema de Auditoria de Recursos Corporativos** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.
-| [Ver Projeto](./projeto-sistema-de-auditoria-de-recursos-corporativos/)
+| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
+| **Engenharia de Soluções Lógicas** |  Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.| [Ver Projeto]( ./projeto-engenharia-de-solucoes-logicas/ )
+| **Modularização**| | [Ver Projeto](./projeto-modularizacao/)
+| **Traduzindo Lógica para Pythons**|| [Ver Projeto](./projeto-traduzindo-logica-para-pythons/)
+| **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial.| [Ver Projeto](./projeto-engenharia-de-Contexto-e-logica-fisica/)
+| **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.| [Ver Projeto](./projeto-desenhando-emojis-com-dados/)
+| **Sistema de Auditoria de Recursos Corporativos** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.| [Ver Projeto](./projeto-sistema-de-auditoria-de-recursos-corporativos/)
 
  
  
